@@ -1,0 +1,5 @@
+package INTERFERENCES;
+
+ class Vehicle {
+
+}

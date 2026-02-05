@@ -1,0 +1,6 @@
+package INHERITANCE;
+
+ class Vehicle {
+
+
+}
